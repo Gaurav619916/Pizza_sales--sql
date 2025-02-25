@@ -1,2 +1,3 @@
-# Pizza_sales--sql
-If you are not be able to open the file so please 1st click on pizza_sales---Sql.pdf and click on download the raw file.
+# Pizza Sales SQL Analysis
+# Project Overview
+Welcome to the Pizza Sales SQL Analysis project! This project involves analyzing pizza sales data to derive insights into sales performance, customer preferences, and revenue trends using SQL queries.
