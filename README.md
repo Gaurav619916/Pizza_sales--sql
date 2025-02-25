@@ -6,7 +6,6 @@ Welcome to the Pizza Sales SQL Analysis project! This project involves analyzing
 The main goal of this project is to analyze and review the company's sales performance over a specific period by answering key business questions.
 
 # Key Queries and Insights
-
 1. Total Number of Orders Placed
 2. Total Revenue Generated from Pizza Sales
 3. Highest-Priced Pizza Identification
@@ -20,3 +19,8 @@ The main goal of this project is to analyze and review the company's sales perfo
 11. Percentage Contribution of Each Pizza Type to Total Revenue
 12. Cumulative Revenue Analysis Over Time
 13. Top 3 Most Ordered Pizza Types Based on Revenue for Each Category
+
+# How to Use This Project
+Setup the Database: Import the pizza sales dataset into your SQL database.
+Run the Queries: Use the provided SQL queries to extract insights.
+Analyze the Results: Interpret the data to make business recommendations.
